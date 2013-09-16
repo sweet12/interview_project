@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/simbin/Project/selenium/JarsforCucumberSelenium/cucumber-core-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/simbin/Project/selenium/JarsforCucumberSelenium/cucumber-html-0.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/simbin/Project/selenium/JarsforCucumberSelenium/cucumber-java-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/simbin/Project/selenium/JarsforCucumberSelenium/cucumber-junit-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/simbin/Project/selenium/JarsforCucumberSelenium/gherkin-2.11.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/simbin/Project/selenium/JarsforCucumberSelenium/gherkin-jvm-deps-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/simbin/Project/selenium/JarsforCucumberSelenium/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/simbin/Project/selenium/JarsforCucumberSelenium/selenium-server-standalone-2.35.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/simbin/Project/selenium/JarsforCucumberSelenium/selenium-2.35.0/selenium-java-2.35.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
